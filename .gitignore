@@ -1,3 +1,4 @@
+.idea
 *.pyc
 tmp
 externals/pygments
